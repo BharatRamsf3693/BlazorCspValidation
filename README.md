@@ -26,6 +26,8 @@ The repository contains the following sample applications:
 2. Click the **Run** button (or press **F5**).
 3. The application launches in the browser.
 
+**Note:** After opening the CspInteractiveWasmSample and CspInteractiveAutoSample projects in Visual Studio 2026 Insiders, ensure that the Server project is set as the startup project.
+
 ### Expected Result
 
 Open the browser's **Developer Tools** and navigate to the **Console** tab.
