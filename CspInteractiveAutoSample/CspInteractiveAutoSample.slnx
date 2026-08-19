@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CspInteractiveAutoSample.Client/CspInteractiveAutoSample.Client.csproj" />
+  <Project Path="CspInteractiveAutoSample/CspInteractiveAutoSample.csproj" />
+</Solution>
