@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CspInteractiveWasmSample.Client/CspInteractiveWasmSample.Client.csproj" />
+  <Project Path="CspInteractiveWasmSample/CspInteractiveWasmSample.csproj" />
+</Solution>
